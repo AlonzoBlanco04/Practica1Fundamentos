@@ -1,3 +1,4 @@
 Alonzo
 Componentes de computadoras
 Componentes mas recientes
+RTX 2060
