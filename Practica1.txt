@@ -1,5 +1,5 @@
-Alonzo
-Componentes de computadoras
-Componentes mas recientes
-RTX 2060
-Nueva serie 3000 
+Alonzo: Blanco
+Componentes de computadoras: Para armar pc
+Componentes mas recientes: Nueva serie Ryzen
+RTX 2060: Tarjeta de video
+Nueva serie 3000: Bajos costos
